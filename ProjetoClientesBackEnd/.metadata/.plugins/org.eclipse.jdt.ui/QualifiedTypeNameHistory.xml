@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="com.projetoclientes.mrepository.ClienteRepository"/>
+    <fullyQualifiedTypeName name="ch.qos.logback.core.net.server.Client"/>
+    <fullyQualifiedTypeName name="com.projetoclientes.model.Cliente"/>
+</qualifiedTypeNameHistroy>

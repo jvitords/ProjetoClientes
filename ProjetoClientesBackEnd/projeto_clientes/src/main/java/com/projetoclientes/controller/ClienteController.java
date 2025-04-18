@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.projetoclientes.model.Cliente;
-import com.projetoclientes.mrepository.ClienteRepository;
+import com.projetoclientes.repository.ClienteRepository;
 
 @RestController
 @CrossOrigin(origins = "*")
